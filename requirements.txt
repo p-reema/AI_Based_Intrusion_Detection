@@ -1,0 +1,22 @@
+- System Requirements
+
+Minimum Requirements:
+• OS: Windows 10 / Ubuntu 20.04+
+• RAM: 8 GB
+• Processor: Intel i5 / AMD Ryzen 5 or above
+• Disk Space: 5 GB free
+• Python Version: 3.8 or higher
+
+Recommended Software:
+• Visual Studio Code (VS Code)
+• Jupyter Extension for VS Code
+• Anaconda (optional but helpful for managing environments)
+
+- Install Required Python Libraries
+
+pip install pandas
+scikit-learn 
+xgboost 
+matplotlib 
+seaborn 
+joblib
